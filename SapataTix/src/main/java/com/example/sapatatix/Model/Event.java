@@ -1,4 +1,4 @@
-package model;
+package com.example.sapatatix.Model;
 
 import java.time.LocalDate;
 
