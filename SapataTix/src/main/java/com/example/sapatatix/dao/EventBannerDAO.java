@@ -1,7 +1,7 @@
-package dao;
+package com.example.sapatatix.dao;
 
-import database.DBUtil;
-import model.EventBanner;
+import com.example.sapatatix.database.DBUtil;
+import com.example.sapatatix.Model.EventBanner;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

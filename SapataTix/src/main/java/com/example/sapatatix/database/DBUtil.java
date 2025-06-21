@@ -1,4 +1,4 @@
-package database;
+package com.example.sapatatix.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

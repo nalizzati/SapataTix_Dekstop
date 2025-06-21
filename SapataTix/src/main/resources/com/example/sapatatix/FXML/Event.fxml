@@ -166,22 +166,17 @@
                         <Insets left="20.0" right="20.0" />
                     </padding>
                     <children>
-                        <Label style="-fx-underline: true;" text="Daring" textFill="#b83d6e">
+                        <Label style="-fx-underline: true;" text="Cultural" textFill="#b83d6e">
                             <font>
                                 <Font name="Segoe UI Bold" size="18.0" />
                             </font>
                         </Label>
-                        <Label text="Luring" textFill="WHITE">
+                        <Label text="Tourism" textFill="WHITE">
                             <font>
                                 <Font name="Segoe UI" size="18.0" />
                             </font>
                         </Label>
-                        <Label text="Sosial" textFill="WHITE">
-                            <font>
-                                <Font name="Segoe UI" size="18.0" />
-                            </font>
-                        </Label>
-                        <Label text="Wisata" textFill="WHITE">
+                        <Label text="Charity" textFill="WHITE">
                             <font>
                                 <Font name="Segoe UI" size="18.0" />
                             </font>

@@ -8,9 +8,9 @@ module com.example.sapatatix {
     requires org.kordamp.bootstrapfx.core;
     requires com.almasb.fxgl.all;
 
-    // Untuk FXML controller dan akses refleksi
     opens com.example.sapatatix.Controller to javafx.fxml;
     opens com.example.sapatatix.dao to javafx.fxml;
     opens com.example.sapatatix.database to javafx.fxml;
-    opens com.example.sapatatix.model to javafx.fxml;
+    opens com.example.sapatatix.Model to javafx.fxml;
+    opens com.example.sapatatix to javafx.fxml, javafx.graphics;
 }
